@@ -20,3 +20,6 @@ union <- animals + other_animals;
 difference <- animals - sub_animals;  
 product <- animals * species;  
 natual_join <- animals & species;  
+  
+  
+jar file coming soon for easy run.  
