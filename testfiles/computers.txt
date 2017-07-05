@@ -1,1 +1,7 @@
-
+computers
+Manufacturer	Storage	Name	Price	
+Dell	512	XPS	1500	
+Apple	1024	MacBook_Pro	2000	
+Dell	512	Inspiration	600	
+HP	1024	Pavilion	1200	
+Apple	256	MacBook_Air	1200	

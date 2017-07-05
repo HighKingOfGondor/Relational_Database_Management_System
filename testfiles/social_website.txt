@@ -1,0 +1,4 @@
+social_website
+Name	Traffic	Website_Type	
+reddit	high	social	
+FaceBook	high	social	

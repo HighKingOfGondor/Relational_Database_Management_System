@@ -1,0 +1,7 @@
+soda
+Brand	Package_Size	
+Dr_Pepper	12	
+A&W	6	
+Virgils	4	
+Coca_Cola	8	
+Pepsi	12	

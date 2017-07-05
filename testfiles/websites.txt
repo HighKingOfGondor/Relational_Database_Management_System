@@ -1,0 +1,6 @@
+websites
+Name	Traffic	Website_Type	
+FaceBook	high	social	
+reddit	high	social	
+Social_Bioware	low	forum
+Howdy	medium	education	

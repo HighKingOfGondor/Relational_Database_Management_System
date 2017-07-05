@@ -1,0 +1,7 @@
+computer_brands
+Brand	
+Dell	
+Apple	
+Dell	
+HP	
+Apple	
